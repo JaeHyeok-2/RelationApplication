@@ -1,4 +1,4 @@
-# Relationship Extraction Application using RoBERTa and Sentiment Analysis Datasets
+# Relationship Extraction Application using RoBERTa
 ## Introduction
 - Pre-Trained RoBERTa를 이용하여 입력문장들에 대해서 관계를 추출하는 방식
 - 2개의 PreTrained Model을 사용
