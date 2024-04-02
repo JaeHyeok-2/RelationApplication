@@ -11,3 +11,8 @@
     <img src="3.png" style="float: right; margin-left: 10px;">
 </div>
   
+
+## Relation Extraction Flow
+<p>
+  <img src = '4.png', aling='center'>
+</p>
