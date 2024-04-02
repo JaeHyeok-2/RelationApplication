@@ -22,3 +22,9 @@ It utilizes sentiment analysis datasets for training and employs state-of-the-ar
 - Provides interactive user interface designed with SwiftUI for ease of use.
 - Offers seamless integration with sentiment analysis datasets for model training and evaluation.
 
+## Results
+
+Input Sequences : 신데렐라 이야기의 문장들을 입력을 받으면, 해당문장들에서 관계를 추출한 후 이를 Visualization
+<p>
+  <img src='results.png' align='left'>
+</p>
